@@ -12,8 +12,8 @@ _site
 .Rhistory
 .RData
 .ruby-version
-code/00-intro/CMakeLists.txt
-code/01-simple/CMakeLists.txt
+# code/00-intro/CMakeLists.txt
+# code/01-simple/CMakeLists.txt
 .bundle/
 .vendor/
 vendor/
